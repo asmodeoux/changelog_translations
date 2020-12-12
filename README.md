@@ -9,4 +9,4 @@ Translation contains of 2 files:
 1) Main json file with strings used in the app
 2) Special file with translation of iOS permission-request messages
 
-Please translate both and pull your files named properly, let me know your name and social network link if you wish to be added to About us section 🙃
+Don't interrupt {} and \n symbols as well. And please translate both and pull your files named properly, let me know your name and social network link if you wish to be added to About us section 🙃
