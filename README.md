@@ -2,6 +2,7 @@
 Open-source translations for Changelog Habit Tracker
 
 Google Play: https://play.google.com/store/apps/details?id=com.asmodeoux.changelog
+
 App Store: https://apps.apple.com/ru/app/changelog-habit-tracker/id1537820647
 
 Translation contains of 2 files:
