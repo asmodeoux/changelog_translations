@@ -5,6 +5,6 @@
   Created by Yuri Goncharenko on 12.12.2020.
   
 */
-NSAppleMusicUsageDescription = "Changelog would like to access your music usage for some music-tracking challenges";
-NSPhotoLibraryAddUsageDescription = "Changelog would like to save images from the app to your gallery";
-NSPhotoLibraryUsageDescription = "Changelog would like to access your photo gallery for uploading images to the app";
+NSAppleMusicUsageDescription = "Changelog vorrebbe accedere al tuo utilizzo della musica per alcune sfide di tracciamento della musica";
+NSPhotoLibraryAddUsageDescription = "Changelog vorrebbe salvare immagini dall'app alla tua galleria";
+NSPhotoLibraryUsageDescription = "Changelog vorrebbe accedere alla tua galleria per caricare immagini nell'app";
