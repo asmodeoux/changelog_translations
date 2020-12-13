@@ -27,7 +27,7 @@
   "today": "today",
   "tomorrow": "tomorrow",
   "at": "at",
-  "by": "by",
+  "by_asmodeoux": "Changelog by asmodeoux",
 
   "profile_title": "Profile",
   "sign_in": "Sign in",
@@ -210,5 +210,15 @@
   "about_us_title": "About us",
   "join_challenge_to_start": "Join a challenge to start tracking",
 
-  "app_store_description": "Features:\n• Create habit trackers with description, time restrictions and useful links to the materials you might need\n• Receive a notification when it's time to complete the task\n• Sync across devices (yet unstable)\n• Share your progress\n• And, for sure, enjoy the simplest UI for tracking you might have imagined\n\nComing soon:\n• Public challenges to compete with your friends and people all over the world\n• Better adaptation for tablets, laptops and web\n• More recommended challenges to join\n\nKeep in mind that the project is a prototype yet, so don't expect too much from it. Many thanks to Freepics designers who helped us with a significant part of the graphics!"
+  "app_store_description": "Features:\n• Create habit trackers with description, time restrictions and useful links to the materials you might need\n• Receive a notification when it's time to complete the task\n• Sync across devices (yet unstable)\n• Share your progress\n• And, for sure, enjoy the simplest UI for tracking you might have imagined\n\nComing soon:\n• Public challenges to compete with your friends and people all over the world\n• Better adaptation for tablets, laptops and web\n• More recommended challenges to join\n\nKeep in mind that the project is a prototype yet, so don't expect too much from it. Many thanks to Freepics designers who helped us with a significant part of the graphics!",
+
+  "tutorial_title": "Tutorial",
+  "tutorial_join_message": "Join existing challenges",
+  "tutorial_create_message": "Create your own",
+  "tutorial_track_message": "Check-in and track results",
+  "tutorial_sync_message": "Sign in to sync results across devices",
+  "thanks_for_watching_tutorial": "Thanks for watching tutorial, time to start!",
+  "next_tutorial": "Next",
+  "thanks_tutorial": "Got it!",
+  "skip_tutorial": "Skip"
 }
