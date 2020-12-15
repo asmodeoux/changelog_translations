@@ -178,7 +178,7 @@
   "share_progress_long": "Поділитися результатами",
   "share_results_pic": "Поділитись результатами",
   "share_results_days": "День {} із {}",
-  "share_results_points": "Шаг {} із {}",
+  "share_results_points": "Крок {} із {}",
   "join_habit": "Приєднатися",
   "leave_habit": "Покинути",
   "leave_habit_question": "Покинути звичку?",
@@ -211,14 +211,14 @@
 
   "app_store_description": "Можливості:\n• Створюйте звички із описом, часовими обмеженнями та користими посиланнями\n• Отримуйте сповіщення коли потрібно виконати поставлені завдання\n• Синхронізуйтесь між пристроями\n• Поширюйте результати\n• Та, звісно ж, насолоджуйтесь простим та зручним інтерфейсом\n\nВ найближчому майбутньому:\n• Публічні звички для змагання із друзями по всьому світі\n• Адаптація під планшети, компютери та браузери\n• Більше рекомендуємих звичок для приєднання\n\nМайте на увазі, що проект на стадії прототипу і все ще на стадії тестування, тому не очікуйте грандіозного. Велетенська подяка дизайнерам Freepics за допомогу із графікою!",
 
-  "tutorial_title": "Tutorial",
-  "tutorial_join_message": "Join existing challenges",
-  "tutorial_create_message": "Create your own",
-  "tutorial_track_message": "Check-in and track results",
-  "tutorial_sync_message": "Sign in to sync results across devices",
-  "thanks_for_watching_tutorial": "Thanks for watching tutorial, time to start!",
-  "next_tutorial": "Next",
-  "thanks_tutorial": "Got it!",
-  "skip_tutorial": "Skip"
+  "tutorial_title": "Інструкція",
+  "tutorial_join_message": "Приєднуйтесь до існуючих челенджів",
+  "tutorial_create_message": "Створюйте свої власні",
+  "tutorial_track_message": "Відмічайте та відслідковуйте результати",
+  "tutorial_sync_message": "Синхронізуйтесь між вашими девайсами",
+  "thanks_for_watching_tutorial": "Дякуємо за перегляд, час починати!",
+  "next_tutorial": "Далі",
+  "thanks_tutorial": "Дякую!",
+  "skip_tutorial": "Пропустити"
 
 }
