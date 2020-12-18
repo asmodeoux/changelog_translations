@@ -1,0 +1,10 @@
+/*
+  InfoPlist.strings
+  Runner
+
+  Created by Yuri Goncharenko on 12.12.2020.
+
+*/
+NSAppleMusicUsageDescription = "Changelog would like to access your music usage for some music-tracking challenges";
+NSPhotoLibraryAddUsageDescription = "Changelog would like to save images from the app to your gallery";
+NSPhotoLibraryUsageDescription = "Changelog would like to access your photo gallery for uploading images to the app";
