@@ -227,25 +227,25 @@
   "confirm_sing_out": "Voulez-vous vous déconnecter?",
   "yes_confirm": "Oui",
 
-  "sport_health_notification_motivation1": "Rester en forme peut être difficile si vous pensiez aux souffrances que vous avez contournées",
+  "sport_health_notification_motivation1": "Rester en forme peut être difficile si vous pensiez aux souffrances que vous avez confrontées",
   "sport_health_notification_motivation2": "Nous ne pensons pas à la santé avant qu'il ne soit trop tard",
   "sport_health_notification_motivation3": "Ce n'est pas le temps de reporter votre tâche pour demain, faisez-le et vous ne regretterez pas d'avoir la reportée à une semaine après",
 
   "education_notification_motivation1": "La connaissance est la puissance, c'est le temps de devenir puissant!",
   "education_notification_motivation2": "Passez du temps à améliorer votre personnage",
-  "education_notification_motivation3": "Never feel ashamed in arguing, education is worth it",
+  "education_notification_motivation3": "N'ayez jamais honte de vous disputer, l'éducation en vaut la peine",
 
-  "languages_notification_motivation1": "New languages can improve your native's vocabulary",
-  "languages_notification_motivation2": "We know you feel lonely at times — learn new languages to meet new people",
-  "languages_notification_motivation3": "Understanding other cultures starts with their language",
+  "languages_notification_motivation1": "De nouvelles langues peuvent améliorer le vocabulaire de votre langue maternelle",
+  "languages_notification_motivation2": "Nous savons que vous vous sentez parfois seul, apprenez de nouvelles langues pour rencontrer de nouvelles personnes",
+  "languages_notification_motivation3": "Comprendre les autres cultures commence par comprendre leurs langues",
 
-  "art_notification_motivation1": "In a world of robots who but artists does a thing?",
-  "art_notification_motivation2": "You might feel tired, but start it and you won't notice the time",
-  "art_notification_motivation3": "Self-expression is the thing that makes you different and memorable",
+  "art_notification_motivation1": "Dans un monde de robots, les artistes font quelque chose??",
+  "art_notification_motivation2": "Vous pourriez vous sentir fatigué, mais commencez votre tâches et le temps passera vite",
+  "art_notification_motivation3": "L'expression de soi est ce qui vous rend différent",
 
-  "games_notification_motivation1": "Life is a game, take your gamepad",
-  "games_notification_motivation2": "There's an impostor in your timeline, complete the scan in a Tracking room",
-  "games_notification_motivation3": "A proper habit has to intertain, so you've made a great choice",
+  "games_notification_motivation1": "La vie est un jeu, prennez votre manette",
+  "games_notification_motivation2": "Il y a un imposteur dans votre chronologie, terminez l'analyse dans la salle de Tracking",
+  "games_notification_motivation3": "Un bonne habitude doit divertir, vous avez donc fait un excellent choix",
 
   "productivity_notification_motivation1": "Le travail dur paie, il est le temps d'augmenter le prix",
   "productivity_notification_motivation2": "Ne travaillez pas dur, travaillez intelligemment",
