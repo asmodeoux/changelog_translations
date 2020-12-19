@@ -15,7 +15,7 @@
   "categories_title": "Catégories",
   "all_title": "Le Tout",
 
-  "tracking_title": "Suivre Votre Progrès",
+  "tracking_title": "Suivre le Progrès",
   "overall_progress": "Total De Progrès",
   "complete_now": "Terminer Maintenant",
   "complete_later": "Terminer Ultérieurement",
@@ -26,7 +26,7 @@
   "points_complete_by": "Point {}/{} — Accompli par {}",
   "today": "aujourd'hui",
   "tomorrow": "demain",
-  "à": "à",
+  "at": "à",
   "by_asmodeoux": "Changelog par asmodeoux",
 
   "profile_title": "Profil",
@@ -97,7 +97,7 @@
   "updated_tracker_message": "Votre traqeur est mis à jour",
   "reset": "Réinitialiser",
   "cancel_editing": "Annuler la modification",
-  "save": "Enregistrer",
+  "save": "Prêt",
   "save_download": "Enregistrer",
 
   "monday_short": "Lun",
@@ -205,7 +205,7 @@
   "sync_forced_title": "Synchroniser",
   "sync_forced_message": "Téléchargement forcé terminé",
 
-  "no_challenges_yet_category️️": "Il n'y a pas de défis, mais vous pouvez créer un ↗",
+  "no_challenges_yet_category️️": "Il n'y a pas de défi, mais vous pouvez créer un ↗",
   "you_username": "Utilisateur",
   "about_us_title": "À propos de nous",
   "join_challenge_to_start": "Rejoignez un défi pour commencer le suivi",

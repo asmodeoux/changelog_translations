@@ -31,7 +31,7 @@
 
   "profile_title": "Profil",
   "sign_in": "Přihlásit se",
-  "sign_in_apple": "Přihlásit se pomocí Apple",
+  "sign_in_apple": "Přihlásit se Apple",
   "sign_out": "Odhlásit se",
   "achievements": "Úspěchy",
   "coming_soon": "Již brzy",
@@ -223,9 +223,9 @@
   "skip_tutorial": "Přeskočit",
 
   "duration_days_indicator": "{}d",
-  "confirm_delete": "Do you wish to delete this habit?",
-  "confirm_sing_out": "Do you wish to sign out?",
-  "yes_confirm": "Yes",
+  "confirm_delete": "Chcete tento zvyk odstranit?",
+  "confirm_sing_out": "Chcete opustit účet?",
+  "yes_confirm": "Ano",
 
   "sport_health_notification_motivation1": "Keeping fit may be hard unless you think of suffers you've bypassed",
   "sport_health_notification_motivation2": "Health is something we don't think about before it's too late",
@@ -267,8 +267,8 @@
   "fun_notification_motivation2": "Life is not fun-only, but give it a chance to be more entertaining",
   "fun_notification_motivation3": "Time for some fun! How about competing your habit?",
 
-  "other_notification_motivation": "Don't forget to complete your task!",
+  "other_notification_motivation": "Nezapomeňte dokončit svůj úkol!",
 
-  "start_habit_now": "Start now"
+  "start_habit_now": "Začněte hned"
 
 }
