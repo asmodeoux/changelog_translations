@@ -15,3 +15,5 @@ These first strings in every line is a line's ID, so you don't need to translate
 If your language needs to change words order or some words themselves to keep the meaning understandable for locals — no problem, do that. I should also mention that RTL languages like Arabic were not tested yet, so I'm not sure if I will be able to add these soon.
 
 Don't interrupt {} and \n symbols as well — the brackets stand for numbers and \n for starting a new line. And please translate both and pull your files named properly, let me know your name and social network link if you wish to be added to About us section 🙃
+
+If you have any questions or just wish to contact me, join our Telegram chat https://t.me/joinchat/CQkkf0a23lZmwfk3UmjvXg or send me an email to work@asmodeoux.me
