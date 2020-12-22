@@ -197,7 +197,7 @@
   "saved_message_short": "Compartilhe via galeria",
   "info_button": "Informações",
   "new_username": "Novo usuário",
-  "new_username_info": "4-15 símbolos",
+  "new_username_info": "4-15 caracteres",
   "new_username_info_2": "Use o nome de usuário apropriado contendo de 4 a 15 símbolos",
   "sync_forced_title": "Sincronizar",
   "sync_forced_message": "Sincronização concluído",
@@ -205,7 +205,9 @@
   "you_username": "Usuário",
   "about_us_title": "Sobre nós",
   "join_challenge_to_start": "Junte-se a um desafio para começar a monitorar",
-  "app_store_description": "Recursos:\n• Crie monitoramento de hábitos com descrição, restrições de tempo e links úteis para os materiais de que você pode precisar\n• Receba uma notificação quando chegar a hora de concluir a tarefa\n• Sincronizar entre dispositivos (instável por enquanto)\n• Compartilhe seu progresso\n• E, com certeza, aproveite a interface de usuário mais simples para monitorar o que você possa imaginar\n\nEm breve:\n• Desafios públicos para competir com seus amigos e pessoas de todo o mundo\n• Melhor adaptação para tablets, laptops e web\n• Mais desafios recomendados para participar\n\nLembre-se de que o projeto ainda é um protótipo, então não espere muito dele. Muito obrigado aos designers do Freepics que nos ajudaram com uma parte significativa dos gráficos!",
+
+  "app_store_description": "Recursos:\n• Crie monitoramento de rotinas com descrição, restrições de tempo e links úteis para os materiais de que você pode precisar\n• Receba uma notificação quando chegar a hora de concluir a tarefa\n• Sincronizar entre dispositivos (instável por enquanto)\n• Compartilhe seu progresso\n• E, com certeza, aproveite a interface de usuário mais simples para monitorar o que você possa imaginar\n\nEm breve:\n• Desafios públicos para competir com seus amigos e pessoas de todo o mundo\n• Melhor adaptação para tablets, laptops e web\n• Mais desafios recomendados para participar\n\nLembre-se de que o projeto ainda é um protótipo, então não espere muito dele. Muito obrigado aos designers do Freepics que nos ajudaram com uma parte significativa dos gráficos!",
+
   "tutorial_title": "Tutorial",
   "tutorial_join_message": "Junte-se aos desafios existentes",
   "tutorial_create_message": "Crie o seu próprio",
@@ -217,51 +219,52 @@
   "skip_tutorial": "Pular",
 
   "duration_days_indicator": "{}d",
-  "confirm_delete": "Deseja eliminar este hábito?",
-  "confirm_sing_out": "Queres sair?",
+
+  "confirm_delete": "Deseja eliminar esta rotina?",
+  "confirm_sing_out": "Você deseja sair?",
   "yes_confirm": "Sim",
 
-  "sport_health_notification_motivation1": "Keeping fit may be hard unless you think of suffers you've bypassed",
-  "sport_health_notification_motivation2": "Health is something we don't think about before it's too late",
-  "sport_health_notification_motivation3": "It's not time to delay tasks for tomorrow, just do it and you won't regret skipping a week after",
+  "sport_health_notification_motivation1": "Manter a saúde não é fácil, mas você deve pensar em problemas que conseguiu superar",
+  "sport_health_notification_motivation2": "Deixamos de pensar na saúde até que seja tarde demais",
+  "sport_health_notification_motivation3": "Este não é o momento de deixar tudo para amanhã, faça o quanto antes e não se arrependerá uma semana depois",
 
-  "education_notification_motivation1": "Knowledge is power, time to power up!",
-  "education_notification_motivation2": "Spend some time on leveling-up your only mattering character",
-  "education_notification_motivation3": "Never feel ashamed in arguing, education is worth it",
+  "education_notification_motivation1": "Conhecimento é poder, é hora de se tornar poderoso!",
+  "education_notification_motivation2": "Passe algum tempo aprimorando o seu caráter, a parte mais importante que estará com você por toda a vida",
+  "education_notification_motivation3": "Nunca se sinta desconfortável em uma discussão, a educação vale a pena, então aprende algo.",
 
-  "languages_notification_motivation1": "New languages can improve your native's vocabulary",
-  "languages_notification_motivation2": "We know you feel lonely at times — learn new languages to meet new people",
-  "languages_notification_motivation3": "Understanding other cultures starts with their language",
+  "languages_notification_motivation1": "Novos idiomas podem melhorar o vocabulário em seu idioma de origem",
+  "languages_notification_motivation2": "Sabemos que às vezes você se sente solitário - aprenda novos idiomas para conhecer novas pessoas",
+  "languages_notification_motivation3": "Compreenda outras culturas começando no entendimento do idioma",
 
-  "art_notification_motivation1": "In a world of robots who but artists does a thing?",
-  "art_notification_motivation2": "You might feel tired, but start it and you won't notice the time",
-  "art_notification_motivation3": "Self-expression is the thing that makes you different and memorable",
+  "art_notification_motivation1": "Em um mundo de robôs, quem, senão artistas, fazem algo?",
+  "art_notification_motivation2": "Você pode se sentir cansado, mas comece suas tarefas e o tempo passará despercebido.",
+  "art_notification_motivation3": "A autoexpressão é algo que nos faz diferente e memorável",
 
-  "games_notification_motivation1": "Life is a game, take your gamepad",
-  "games_notification_motivation2": "There's an impostor in your timeline, complete the scan in a Tracking room",
-  "games_notification_motivation3": "A proper habit has to intertain, so you've made a great choice",
+  "games_notification_motivation1": "A vida é um jogo, pegue seu controle de vídeogame",
+  "games_notification_motivation2": "Há um impostor em sua linha do tempo, conclua a verificação em uma sala de monitoramento",
+  "games_notification_motivation3": "Um hábito adequado deve entreter, então você fez uma ótima escolha",
 
-  "productivity_notification_motivation1": "Hard work pays off, time to raise the price",
-  "productivity_notification_motivation2": "Don't work hard, work smart",
-  "productivity_notification_motivation3": "Believe us your work will be noticed",
+  "productivity_notification_motivation1": "O trabalho duro compensa, é hora de aumentar o preço",
+  "productivity_notification_motivation2": "Não trabalhe duro, trabalhe com inteligência",
+  "productivity_notification_motivation3": "Acredite em nós, seu trabalho será notado",
 
-  "lifestyle_notification_motivation1": "Lifestyle is something that makes us ourselves",
-  "lifestyle_notification_motivation2": "Our diversity is the treasure, discover yourself",
-  "lifestyle_notification_motivation3": "All the best people are crazy in a certain way, listen to your heart and keep bending your line",
+  "lifestyle_notification_motivation1": "O estilo de vida é algo que nos identifica",
+  "lifestyle_notification_motivation2": "Nossas diferenças são nossas riquezas, descubra e se conheça",
+  "lifestyle_notification_motivation3": "As melhores pessoas são malucas de alguma forma, ouça o seu coração e e não dê ouvidos a ninguém",
 
-  "travelling_notification_motivation1": "It's a hard time for travellers, but keep it up!",
-  "travelling_notification_motivation2": "New places bring new ideas",
-  "travelling_notification_motivation3": "You will never regret widening the horizons",
+  "travelling_notification_motivation1": "Não é a melhor época para viajar, mas continue assim, tudo vai dar certo!",
+  "travelling_notification_motivation2": "Novos lugares trazem novas ideias",
+  "travelling_notification_motivation3": "Você nunca se arrependerá de ampliar os horizontes",
 
-  "bad_habits_notification_motivation1": "Some things hurt us, even if we notice that only after healing",
-  "bad_habits_notification_motivation2": "Step-by-step you will become a person you've always wanted to be",
-  "bad_habits_notification_motivation3": "Everything that has a beginning has it's end, so end your bad habits before they end you",
+  "bad_habits_notification_motivation1": "Algumas coisas nos machucam, mesmo que percebamos isso somente após a cura",
+  "bad_habits_notification_motivation2": "Passo a passo, você se tornará a pessoa que sempre quis ser",
+  "bad_habits_notification_motivation3": "Tudo que tem um começo tem seu fim, então acabe com seus maus hábitos antes que eles acabem com você",
 
-  "fun_notification_motivation1": "Feeling bored? Here's a distraction",
-  "fun_notification_motivation2": "Life is not fun-only, but give it a chance to be more entertaining",
-  "fun_notification_motivation3": "Time for some fun! How about competing your habit?",
+  "fun_notification_motivation1": "Está entediado? Aqui está uma distração",
+  "fun_notification_motivation2": "A vida não é apenas diversão, mas dê a ela uma chance de ser mais agradável e alegre",
+  "fun_notification_motivation3": "É hora de se divertir! Que tal competir e completar o desafio?",
 
-  "other_notification_motivation": "Não te esqueças de completar a tua tarefa!",
+  "other_notification_motivation": "Não esqueça de completar a sua tarefa!",
 
   "start_habit_now": "Começar agora"
 }
