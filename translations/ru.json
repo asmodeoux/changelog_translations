@@ -219,6 +219,54 @@
   "thanks_for_watching_tutorial": "Спасибо за внимание, самое время начать!",
   "next_tutorial": "Дальше",
   "thanks_tutorial": "Понятно",
-  "skip_tutorial": "Пропустить"
+  "skip_tutorial": "Пропустить",
 
+  "duration_days_indicator": "{}д",
+  "confirm_delete": "Удалить привычку?",
+  "confirm_sing_out": "Выйти из аккаунта?",
+  "yes_confirm": "Да",
+
+  "sport_health_notification_motivation1": "Беречь здоровье нелегко — но когда-нибудь ты задумаешься о проблемах, которые тебя не коснулись",
+  "sport_health_notification_motivation2": "Мы не думаем о здоровье до тех пор, пока не становится слишком поздно",
+  "sport_health_notification_motivation3": "Не время откладывать всё на завтра, через год ты обрадуешься что всё сделано вовремя",
+
+  "education_notification_motivation1": "Знания — сила, набирайся сил!",
+  "education_notification_motivation2": "Потрать время на прокачку единственного персонажа, который с тобой на всю жизнь",
+  "education_notification_motivation3": "Никогда не чувствуй себя неловко в спорах — учись",
+
+  "languages_notification_motivation1": "Новые языки yлучшают словарный запас и в нашем родном языке",
+  "languages_notification_motivation2": "Мы знаем тебе бывает одиноко — учи языки чтобы знакомиться с людьми по всему миру",
+  "languages_notification_motivation3": "Понимание других культур начинается с их языка",
+
+  "art_notification_motivation1": "Кто, кроме людей искусства, выделится в мире роботов?",
+  "art_notification_motivation2": "Тебя одолевает усталость, но достаточно приняться за дело и время пролетит незаметно",
+  "art_notification_motivation3": "Самовыражение — единственное, что делает нас запоминающимися",
+
+  "games_notification_motivation1": "Жизнь — игра, доставай геймпад",
+  "games_notification_motivation2": "В расписании обнаружен предатель, пройдите скан в комнате Прогресса",
+  "games_notification_motivation3": "Правильная привычка должна привлекать, так что у тебя отличный вкус",
+
+  "productivity_notification_motivation1": "Тяжёлый труд окупается, самое время набить цену",
+  "productivity_notification_motivation2": "Работай не 8 часов, а головой",
+  "productivity_notification_motivation3": "Поверь, твою работу заметят",
+
+  "lifestyle_notification_motivation1": "Образ жизни — то, что делает нас самими собой",
+  "lifestyle_notification_motivation2": "Наши различия — наше богатство, познавай себя",
+  "lifestyle_notification_motivation3": "Все успешные люди сумасшедшие, следуй своему сердцу и не слушай никого",
+
+  "travelling_notification_motivation1": "Не лучшее время для путешествий, но вы держитесь там, всего доброго!",
+  "travelling_notification_motivation2": "Новые места приносят новые идеи",
+  "travelling_notification_motivation3": "Ты никогда не пожалеешь о расширенном кругозоре",
+
+  "bad_habits_notification_motivation1": "Какие-то привычки вредят нам, даже если мы замечаем это после избавления от них",
+  "bad_habits_notification_motivation2": "Шаг за шагом — и ты станешь лучшей версией себя",
+  "bad_habits_notification_motivation3": "У всего есть свой конец — покончи с вредными привычками пока они не покончили с тобой",
+
+  "fun_notification_motivation1": "Устал? Самое время отвлечься",
+  "fun_notification_motivation2": "Жизнь это не сплошное развлечение, но дай ей шанс бысть более увлекательной",
+  "fun_notification_motivation3": "Время развлечься! Как насчёт выполнения челенджа?",
+
+  "other_notification_motivation": "Не забудь выполнить задание!",
+
+  "start_habit_now": "Начать сразу?"
 }

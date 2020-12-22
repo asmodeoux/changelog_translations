@@ -205,7 +205,9 @@
   "you_username": "Usuário",
   "about_us_title": "Sobre nós",
   "join_challenge_to_start": "Junte-se a um desafio para começar a monitorar",
+
   "app_store_description": "Recursos:\n• Crie monitoramento de rotinas com descrição, restrições de tempo e links úteis para os materiais de que você pode precisar\n• Receba uma notificação quando chegar a hora de concluir a tarefa\n• Sincronizar entre dispositivos (instável por enquanto)\n• Compartilhe seu progresso\n• E, com certeza, aproveite a interface de usuário mais simples para monitorar o que você possa imaginar\n\nEm breve:\n• Desafios públicos para competir com seus amigos e pessoas de todo o mundo\n• Melhor adaptação para tablets, laptops e web\n• Mais desafios recomendados para participar\n\nLembre-se de que o projeto ainda é um protótipo, então não espere muito dele. Muito obrigado aos designers do Freepics que nos ajudaram com uma parte significativa dos gráficos!",
+
   "tutorial_title": "Tutorial",
   "tutorial_join_message": "Junte-se aos desafios existentes",
   "tutorial_create_message": "Crie o seu próprio",
@@ -217,6 +219,7 @@
   "skip_tutorial": "Pular",
 
   "duration_days_indicator": "{}d",
+
   "confirm_delete": "Deseja eliminar esta rotina?",
   "confirm_sing_out": "Você deseja sair?",
   "yes_confirm": "Sim",
