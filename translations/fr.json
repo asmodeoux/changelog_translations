@@ -10,12 +10,12 @@
   "lifestyle_title": "Style de Vie",
   "travelling_title": "Voyage",
   "bad_habit_title": "Mauvaises Habitudes",
-  "just_for_fun_title": "Juste Pour s'amuser",
+  "just_for_fun_title": "Juste Pour S'amuser",
   "other_title": "Autres",
   "categories_title": "Catégories",
   "all_title": "Le Tout",
 
-  "tracking_title": "Suivre Votre Progrès",
+  "tracking_title": "Suivre Le Progrès",
   "overall_progress": "Total De Progrès",
   "complete_now": "Terminer Maintenant",
   "complete_later": "Terminer Ultérieurement",
@@ -98,7 +98,7 @@
   "reset": "Réinitialiser",
   "cancel_editing": "Annuler la modification",
   "save": "Enregistrer",
-  "save_download": "Enregistrer",
+  "save_download": "Prêt",
 
   "monday_short": "Lun",
   "tuesday_short": "Mar",
@@ -205,7 +205,7 @@
   "sync_forced_title": "Synchroniser",
   "sync_forced_message": "Téléchargement forcé terminé",
 
-  "no_challenges_yet_category️️": "Il n'y a pas de défis, mais vous pouvez créer un ↗",
+  "no_challenges_yet_category️️": "Il n'y a aucun défi, mais vous pouvez créer un ↗",
   "you_username": "Utilisateur",
   "about_us_title": "À propos de nous",
   "join_challenge_to_start": "Rejoignez un défi pour commencer le suivi",
