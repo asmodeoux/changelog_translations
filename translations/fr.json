@@ -16,6 +16,7 @@
   "all_title": "Le Tout",
 
   "tracking_title": "Suivre Le Progrès",
+
   "overall_progress": "Total De Progrès",
   "complete_now": "Terminer Maintenant",
   "complete_later": "Terminer Ultérieurement",
@@ -26,7 +27,7 @@
   "points_complete_by": "Point {}/{} — Accompli par {}",
   "today": "aujourd'hui",
   "tomorrow": "demain",
-  "à": "à",
+  "at": "à",
   "by_asmodeoux": "Changelog par asmodeoux",
 
   "profile_title": "Profil",

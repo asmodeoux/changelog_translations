@@ -27,11 +27,11 @@
   "today": "dnes",
   "tomorrow": "zítra",
   "at": "v",
-  "by_asmodeoux": "Seznam změn podle asmodeoux",
+  "by_asmodeoux": "Changelog podle asmodeoux",
 
   "profile_title": "Profil",
   "sign_in": "Přihlásit se",
-  "sign_in_apple": "Přihlásit se pomocí Apple",
+  "sign_in_apple": "Přihlásit se Apple",
   "sign_out": "Odhlásit se",
   "achievements": "Úspěchy",
   "coming_soon": "Již brzy",
@@ -220,5 +220,55 @@
   "thanks_for_watching_tutorial": "Děkujeme za sledování ukázky, je čas začít!",
   "next_tutorial": "Dále",
   "thanks_tutorial": "Jasně!",
-  "skip_tutorial": "Přeskočit"
+  "skip_tutorial": "Přeskočit",
+
+  "duration_days_indicator": "{}d",
+  "confirm_delete": "Chcete tento zvyk odstranit?",
+  "confirm_sing_out": "Chcete opustit účet?",
+  "yes_confirm": "Ano",
+
+  "sport_health_notification_motivation1": "Keeping fit may be hard unless you think of suffers you've bypassed",
+  "sport_health_notification_motivation2": "Health is something we don't think about before it's too late",
+  "sport_health_notification_motivation3": "It's not time to delay tasks for tomorrow, just do it and you won't regret skipping a week after",
+
+  "education_notification_motivation1": "Knowledge is power, time to power up!",
+  "education_notification_motivation2": "Spend some time on leveling-up your only mattering character",
+  "education_notification_motivation3": "Never feel ashamed in arguing, education is worth it",
+
+  "languages_notification_motivation1": "New languages can improve your native's vocabulary",
+  "languages_notification_motivation2": "We know you feel lonely at times — learn new languages to meet new people",
+  "languages_notification_motivation3": "Understanding other cultures starts with their language",
+
+  "art_notification_motivation1": "In a world of robots who but artists does a thing?",
+  "art_notification_motivation2": "You might feel tired, but start it and you won't notice the time",
+  "art_notification_motivation3": "Self-expression is the thing that makes you different and memorable",
+
+  "games_notification_motivation1": "Life is a game, take your gamepad",
+  "games_notification_motivation2": "There's an impostor in your timeline, complete the scan in a Tracking room",
+  "games_notification_motivation3": "A proper habit has to intertain, so you've made a great choice",
+
+  "productivity_notification_motivation1": "Hard work pays off, time to raise the price",
+  "productivity_notification_motivation2": "Don't work hard, work smart",
+  "productivity_notification_motivation3": "Believe us your work will be noticed",
+
+  "lifestyle_notification_motivation1": "Lifestyle is something that makes us ourselves",
+  "lifestyle_notification_motivation2": "Our diversity is the treasure, discover yourself",
+  "lifestyle_notification_motivation3": "All the best people are crazy in a certain way, listen to your heart and keep bending your line",
+
+  "travelling_notification_motivation1": "It's a hard time for travellers, but keep it up!",
+  "travelling_notification_motivation2": "New places bring new ideas",
+  "travelling_notification_motivation3": "You will never regret widening the horizons",
+
+  "bad_habits_notification_motivation1": "Some things hurt us, even if we notice that only after healing",
+  "bad_habits_notification_motivation2": "Step-by-step you will become a person you've always wanted to be",
+  "bad_habits_notification_motivation3": "Everything that has a beginning has it's end, so end your bad habits before they end you",
+
+  "fun_notification_motivation1": "Feeling bored? Here's a distraction",
+  "fun_notification_motivation2": "Life is not fun-only, but give it a chance to be more entertaining",
+  "fun_notification_motivation3": "Time for some fun! How about competing your habit?",
+
+  "other_notification_motivation": "Nezapomeňte dokončit svůj úkol!",
+
+  "start_habit_now": "Začněte hned"
+
 }
